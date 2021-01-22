@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="title">Let\'s go </string>
-  <string name="akkua">The battery is almost empty!
-
- Please remove \"the battery\" and charge it.
- 
- This helps to extend its lifetime.</string>
-  <string name="forgeta">Forget vehicle%d  a</string>
+  <string name="akkua">The battery is almost empty!\n\n Please remove \"the battery\" and charge it.\n \n This helps to extend its lifetime.</string>
+  <string name="forget">Forget vehicle%d  a</string>
 </resources>
