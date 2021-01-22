@@ -2,5 +2,5 @@
 <resources>
   <string name="title">Los geht\'s</string>
   <string name="akkua">Der Akkub ist fast leer!\n Bitte entferne \"den Akku\" und lade ihn auf.\n Das hilft, die Lebensdauer des Akkus zu verlängern.</string>
-  <string name="forget">fahrzeug entfernen%d</string>
+  <string name="forget">testtest entfernen%d</string>
 </resources>
